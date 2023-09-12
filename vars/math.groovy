@@ -12,4 +12,4 @@ def mul(a,b)
 }
   def dir(a,b)
   {
-    echo "the division of ${a} and ${b} is ${a/b}" 
+    echo "the division of ${a} and ${b} is ${a/b}"
